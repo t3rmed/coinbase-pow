@@ -5,7 +5,7 @@
     In this project, I fully reversed their implementation of it :)
     
     The hash format according to the Coinbase PoW algorithm is:
-    HC::::nonce:::suffix
+    HC:::nonce:::suffix
     
     Where:
     HC is a constant
