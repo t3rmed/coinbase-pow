@@ -17,7 +17,7 @@
     Disclaimer: I am not responsible for any damage that may be caused by
     using this code. Use at your own risk. 
     
-    This code was written by @
+    This code was written by @fuckingtermed
 """
 
 import hashlib
